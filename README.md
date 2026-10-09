@@ -2,6 +2,14 @@
 
 A Cloudflare-native AI chat application for explaining and improving the performance of Python, C++, and CUDA code. **Not a benchmarking or code-execution service**: suggestions are hypotheses until measured.
 
+
+
+## Live Demo
+
+**Try CodePilot here:**
+https://ai-code-optimization-assistant.codepilot-ai.workers.dev
+
+
 ## Features
 - User-submitted code or questions through a responsive chat interface
 - Llama 3.3 70B on **Cloudflare Workers AI**
